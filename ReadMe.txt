@@ -1,6 +1,6 @@
 ReadMe file for Irony project
 http://www.codeplex.com/irony  
-
+GS 2012
 Prerequisites
   OS: Windows 7; 
   Visual Studio 2010, .NET Framework 4.0
